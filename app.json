@@ -1,0 +1,14 @@
+{
+
+  "name": "whatsapp-bot",
+
+  "description": "whatsapp bot build with nodejs",
+
+  "repository": "https://github.com/Ruu-hub/bitch-bot",
+
+  "logo": "https://media.discordapp.net/attachments/829301026666446868/912197372862427146/UI_AvatarIcon_Klee.png",
+
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+
+}
+
